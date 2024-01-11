@@ -1,2 +1,2 @@
 # Calculator
-A robust bank management system is crucial for the smooth functioning of banking operations
+It is about creating dynamic, immersive, functional calculator and memorable experiences that resonate with users
